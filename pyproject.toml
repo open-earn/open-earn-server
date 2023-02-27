@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "open-earn"
+name = "open-earn-server"
 version = "0.1.0"
 description = ""
 authors = ["Morgan C. Nicholson <nich.morgan@outlook.com>"]
