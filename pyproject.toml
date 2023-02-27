@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["Morgan C. Nicholson <nich.morgan@outlook.com>"]
 readme = "README.md"
-packages = [{include = "open_earn"}]
+packages = [{include = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
